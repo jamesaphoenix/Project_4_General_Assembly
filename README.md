@@ -7,8 +7,7 @@ During this project, I learned web scraping and utilised the [BeautifulSoup](htt
 * Web Scraping: DOM Inspecting + Feature Extraction. 
 * Predicting the salary with both a classification & regression model, using features such as location, title, and summary of the job. 
 * Identified features in the data related to job postings to distinguish job titles from each other.
-* Implemented Classification Models.
- * Logistic regression with both statsmodels and sklearn.
+* Implemented Classification Models - Logistic regression with both statsmodels and Sci-kit learn
 * Coefficients/feature importances evaluaation. 
 * Model Evaluation:
   * Used cross-validation to evaluate my models.
