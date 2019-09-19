@@ -4,12 +4,12 @@
 
 During this project, I learned web scraping and utilised the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [requests](https://2.python-requests.org/en/master/) libraries to successfully scrape online job listings from Indeed.com.
 
-* Web Scraping: DOM Inspecting + Feature Extraction. 
-* Predicting the salary with both a classification & regression model, using features such as location, title, and summary of the job. 
+* Web Scraping: DOM inspecting, parsing + feature extraction. 
+* Predicted the salary with both a classification & regression model, using features such as location, title, and summary of the job. 
 * Identified features in the data related to job postings to distinguish job titles from each other.
-* Implemented Classification Models - Logistic regression with both statsmodels and Sci-kit learn
-* Coefficients/feature importances evaluaation. 
-* Model Evaluation:
+* Implemented classification models - Logistic regression with both statsmodels and Sci-kit learn.
+* Coefficients/feature importances evaluation. 
+* Model evaluation:
   * Used cross-validation to evaluate my models.
   * Evaluated the accuracy, AUC, precision and recall of the models. 
   * Plotted the ROC and precision-recall curve.
