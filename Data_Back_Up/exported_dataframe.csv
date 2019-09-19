@@ -1,0 +1,545 @@
+Salaries($),Titles,Locations,Companies,Ratings
+120500.0,Eicoff - Data Scientist,"Chicago, IL",Ogilvy,
+115000.0,Insurance Data Scientist,"Chicago, IL  ",TransUnion,
+104000.0,Data Analyst / Scientist,"Chicago, IL  ",Centric Digital,
+142000.0,Arity-Data Scientist-Claims Analytics,"Chicago, IL ",Allstate,
+64650.0,Management Operations Analyst II,"Cook County, IL",State of Illinois,
+139000.0,Data Science Manager - Artificial Intelligence & Analytics -...,"Chicago, IL",Capgemini,
+5000.0,Lead Data Scientist – Digital Engagement,"Denver, CO  ",AETNA,
+81028.5,"Physical Scientist, GS-1301-09/11/12 (PERM-DEU-JJ)","Lakewood, CO",US Department of the Interior,
+5000.0,UX Copywriter / Content Strategist,"Denver, CO  ",AETNA,
+93000.0,Software Engineer,"Boulder, CO",Twitter,
+114000.0,Natural Language Processing Engineer,"Denver, CO  ",Pinnacol Assurance,
+101000.0,Software Engineer - Natural Language Processing,"Denver, CO",Josh.ai,
+103000.0,Senior Artificial Intelligence Developer,"Boulder, CO",Huck Adventures,
+110500.0,"UI/UX Engineer, Explainable AI","Denver, CO",DataRobot,
+60000.0,Finance Manager,"Boulder, CO  ",University of Colorado Boulder,
+148500.0,Azure Data Architect,"Denver, CO",Quisitive,
+85500.0,Backend Python/Django Developer,"Denver, CO",selfdecode.com,
+100000.0,Data Scientist,"New York, NY",Otis Wealth,
+70000.0,Data Analytics Specialist,"Manhattan, NY",New York City DEPT OF PARKS & RECREATION,
+107500.0,Part Time Data Science Instructor,"New York, NY",General Assembly,
+115500.0,"Data Scientist, Product Analytics","New York, NY  ",BuzzFeed,
+838.0,Technician B - Preventive Medicine,"New York, NY",Columbia University,
+89349.0,"Data Analyst, PNA","Manhattan, NY",New York City NYC HOUSING AUTHORITY,
+140000.0,Sr. Data Scientist,"New York, NY  ",MetroPlus Health Plan,
+160500.0,Data Scientist,"Manhattan, NY",VISITING NURSE SERVICE OF NEW YORK,
+132500.0,Data Scientist,"New York, NY",Element Global Search,
+126000.0,Data Scientist,"New York, NY  ",AdTheorent,
+102500.0,Senior Business Data Analyst (MOO),"Brooklyn, NY",Mayor's Office of Contract Services,
+135000.0,Data Scientist - Investment Research,"New York, NY","Two Sigma Investments, LLC.",
+115000.0,Data Scientist Midlevel,"Canastota, NY",Northeast Information Discovery,
+92500.0,Data Strategist,"New York, NY",Bam Communications,
+136000.0,"Data Scientist, Natural Language Processing (NY)","New York, NY",Etsy,
+120000.0,Data Scientist,"New York, NY  ",TripleLift,
+116500.0,Data Scientist,"Latham, NY",UL,
+141000.0,Data Scientist,"New York, NY",Rockstar New York,
+57818.0,Youth Justice Research Analyst,"Manhattan, NY",NYC Administration for Children's Services,
+65385.5,"City Research Scientist, Bluebelt Planning","New York, NY",New York City DEPT OF ENVIRONMENT PROTECTION,
+138500.0,Data Scientists,"New York, NY",Coriolis People,
+94889.0,"Health Data Scientist, Bureau of School Health","Queens, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,
+72500.0,Senior Data Analyst,"Manhattan, NY  ",Mayor's Office of Contract Services,
+98797.0,COMPUTER SCIENTIST,"Phoenix, AZ  ",US Department of the Navy,
+59832.5,Data Quality Statistical Analyst,"Phoenix, AZ",U.S. District Court - District of Arizona,
+99514.0,MATHEMATICIAN,"Phoenix, AZ",US Department of the Air Force,
+98797.0,MATHEMATICIAN,"Phoenix, AZ  ",US Department of the Navy,
+51238.0,RESEARCH AND STATISTICAL ANALYST,"Phoenix, AZ  ",Arizona Health Care Cost Containment System,
+57250.0,Law Research Fellow in Artificial Intelligence Governance,"Phoenix, AZ  ",Arizona State University,
+106500.0,Data Science Engineer,"Tempe, AZ",Carvana,
+125000.0,Senior Data Science Engineer,"Tempe, AZ",Carvana,
+108500.0,Azure Cloud Engineer,"Phoenix, AZ  ",Solera Health,
+79000.0,Data Science Liaison,"Willow Grove, PA",NMS Labs,
+70000.0,Post Doc,"Philadelphia, PA  ",Childhood Cancer Data Lab,
+93000.0,Sr. Research Scientist,"Miami, FL",Florida International University,
+100000.0,Senior Layout Engineer,"Plantation, FL","Magic Leap, Inc.",
+110000.0,Data Scientist,"Miami, FL",AHS Residential LLC,
+110000.0,Data Scientist,,AHS Residential LLC,
+93600.0,Workforce Research & Data Analyst,"Tacoma, WA  ",City of Tacoma,
+90000.0,Data Scientist,"Los Angeles, CA",AvantStay,
+129000.0,Data Scientist,"Los Angeles, CA",Oxford Road,
+141906.5,Semantic Engineer (Sr),"Los Angeles, CA ",The J. Paul Getty Trust,
+63035.0,REALTY SPECIALIST,"Los Angeles, CA",US Department of the Army,
+117500.0,Data Scientist,"Los Angeles, CA",Imagining Human,
+135000.0,Data Scientist at Sustainable Fashion App,"Los Angeles, CA ",Relovv,
+150000.0,Data Scientist,"Los Angeles, CA",Icekredit,
+66786.0,Market Strategy and Research Analyst,"Northridge, CA",California State University,
+92100.0,"Senior Research & Planning Analyst, FCC581, FC","Anaheim, CA",North Orange County Community College District (NO...,
+140000.0,Software Engineer and Data Scientist,"Pasadena, CA ","Avicena, LLC",
+125000.0,STATISTICIAN,,National Tax Experts,
+80000.0,"Statistician, Data Analytics Team","Beverly Hills, CA ",Phar LLC,
+135000.0,"Senior Statistician, Data Analytics Team","Beverly Hills, CA ",Phar LLC,
+48750.0,Stage Manager,"Columbus, OH",The Ohio State University,
+52500.0,Senior Academic Advisor,"Columbus, OH",The Ohio State University,
+67500.0,Program Director,"Columbus, OH",The Ohio State University,
+50000.0,Program Coordinator,"Columbus, OH",The Ohio State University,
+94494.0,Investment Analyst-Quantitative Management,"Columbus, OH  ",Ohio Public Employees Retirement System,
+62154.0,Post Doctoral Researcher,"Columbus, OH",The Ohio State University,
+130000.0,Senior Research Scientist,"Columbus, OH  ",Ohio State University Medical Center,
+75000.0,Systems Developer/Engineer,"Columbus, OH",The Ohio State University,
+52500.0,Visiting Assistant Professor,"Columbus, OH",The Ohio State University,
+99000.0,Computer Software Developer (Predictive Modeling),"Hilliard, OH ","Yashco Systems, Inc.",
+109000.0,Senior Software Engineer - M&S,"Columbus, OH",DCS Corp,
+112500.0,"Senior Front End Engineer, UI/UX team","Columbus, OH",DataRobot,
+120000.0,Senior Data Analyst,"San Francisco, CA",Blue Owl,
+147000.0,"Data Scientist, Capital","San Francisco, CA  ",Square,
+115000.0,Machine Learning Engineer,"San Francisco, CA",Synapse Financial Technologies Inc,
+136000.0,Data Scientist,"Emeryville, CA",Canopy Health,
+135000.0,Data Scientist,"Redwood City, CA ",Perfect World Entertainment,
+137000.0,Data Scientist,"San Francisco, CA",Kinsa Inc.,
+80000.0,Research Analyst,"Oakland, CA",Raiders Football Club LLC,
+110000.0,Client Onboarding & Implementations Manager,"San Mateo, CA  ",Lumity Inc,
+1200.0,Field Application Scientist / Sr. Field Application Scientis...,"San Francisco, CA  ",Benchling,
+34008.0,Research Engineering/Scientist Associate I,"Austin, TX",University of Texas at Austin,
+55380.0,Senior Data Research Analyst,"Austin, TX  ",Health & Human Services Comm,
+45000.0,Research Engineering/Scientist Associate I,"Austin, TX",University of Texas at Austin,
+136500.0,Tech Consulting Manager - Data Scientist,"Austin, TX",EY,
+52068.0,DPS - LES - Forensic Scientist I-III DNA,"Austin, TX ",TEXAS DEPARTMENT OF PUBLIC SAFETY,
+100000.0,Computational Neuroscientist,"Austin, TX",University of Texas at Austin,
+1800.0,Software Engineer - Data Team,"Austin, TX",The Zebra,
+69996.0,Geomechanical Engineer,"Austin, TX",University of Texas at Austin,
+71502.0,Health Physicist II,"Austin, TX",Dept of State Health Services,
+34008.0,Research Engineer Scientist Associate I,"Austin, TX",University of Texas at Austin,
+95000.0,Data Scientist / Quantitative Analyst - Sports,"Austin, TX",Zelus Analytics,
+96500.0,DATA SCIENTIST,"Austin, TX",Authors.me,
+125000.0,Senior Data Scientist / Quantitative Analyst - Sports,"Austin, TX",Zelus Analytics,
+111500.0,Data Scientist,"Austin, TX",Data Quantist,
+45000.0,"Research Engineering Scientist Associate III, Neurosurgery,...","Austin, TX",University of Texas at Austin,
+75000.0,Research Associate - Quantitative Analyst Modeler,"Austin, TX",University of Texas at Austin,
+122411.5,General Engineer (Senior Technical Architecture Analyst),"Austin, TX",US Department of the Army,
+85000.0,Software Engineer | Computer Vision,"Austin, TX",Synthetik Applied Technologies,
+119000.0,Senior Statistician - Multidisciplinary Research Manager,,"Far Harbor, LLC",
+47500.0,Accounting Clerk I,"Austin, TX ",JE Group of Companies,
+48000.0,Senior Research Program Coordinator,"Austin, TX",University of Texas at Austin,
+119000.0,Senior Statistician - Multidisciplinary Research Manager,"Austin, TX","Far Harbor, LLC",
+59350.0,Research Associate (Research Statistician),"Portland, OR",Oregon Health & Science University,
+46000.0,Research and Evaluation Analyst,"Portland, OR",SELF ENHANCEMENT (SEI),
+91319.5,Appraiser,"Portland, OR",US Department of the Army,
+42096.0,SECRETARY SUPERVISOR - Washington State Patrol (Vancouver HQ...,"Vancouver, WA",Washington State Patrol,
+50800.0,Clinical Research Coordinator,"Portland, OR",Oregon Health & Science University,
+65073.0,Research Associate (Lab Manager),"Portland, OR",Oregon Health & Science University,
+107000.0,Data Scientist,"Portland, OR",M Science,
+119000.0,Data Scientist,"Lake Oswego, OR ",Vesta Corporation,
+101500.0,"Product Manager - Data Science - Portland, OR","Portland, OR",Vacasa,
+112500.0,"Senior Product Manager - Data Science - Portland, OR","Portland, OR",Vacasa,
+131500.0,Director - DevOps & Release,"Portland, OR  ",CDK Global,
+108587.5,Supervisory Civil Engineer (Hydraulics),"Portland, OR",US Department of the Army,
+63500.0,Staff Civil Engineer,"Portland, OR ","GeoEngineers, Inc.",
+61542.0,Senior Data Analyst,"Pittsburgh, PA",The University of Pittsburgh,
+26832.0,Research Technician,"Pittsburgh, PA",The University of Pittsburgh,
+30810.0,Laboratory Research Specialist,"Pittsburgh, PA",The University of Pittsburgh,
+123500.0,Research Data Scientist,"Houston, TX  ",ExxonMobil,
+94000.0,Data Scientist,"League City, TX ",American National Family of Companies,
+114000.0,Data Scientist,"Houston, TX",CGG,
+60000.0,Research Associate,"Houston, TX",Baylor College of Medicine,
+46980.0,"Research Compliance Analyst (IRB), RIO","Houston, TX",University of Houston,
+112500.0,Quality Engineer IV- Data Scientist,"Houston, TX",Hewlett Packard Enterprise,
+74000.0,"Senior Medical Lab Scientist, Lab Services - Victory Lakes P...","League City, TX ",UTMB,
+48342.0,Post Doctoral Fellow,"Houston, TX",University of Houston,
+85000.0,Lead Bioinformatics Programmer,"Houston, TX",Baylor College of Medicine,
+122500.0,Data Scientist,"Houston, TX",SelectMinds,
+103151.0,Statistician (Health) (Direct Hire),"Atlanta, GA  ",Centers for Disease Control and Prevention,
+103151.0,Statistician (Health),"Atlanta, GA  ",Centers for Disease Control and Prevention,
+116198.0,Health Scientist,"Atlanta, GA  ",Centers for Disease Control and Prevention,
+86491.5,Statistician (Health) (Direct Hire),"Atlanta, GA  ",Centers for Disease Control and Prevention,
+126000.0,International Data Science Consultant,"Atlanta, GA  ",TransUnion,
+75000.0,Data Scientist,"Atlanta, GA  ","AIMLEX, LLC",
+118435.0,Data Architect,"Atlanta, GA ",Intellinet,
+105000.0,AWS DevOps Engineer for AI Platform,"Atlanta, GA","DecisionIQ, Inc.",
+100000.0,Software Engineer for Data Science Platform,"Atlanta, GA","DecisionIQ, Inc.",
+115000.0,Product Data Scientist,"Dallas, TX",Invitae,
+111000.0,Data Scientist,"Dallas, TX",Antuit,
+122500.0,Data Scientist,"Irving, TX ",Simarn Solutions,
+129000.0,Data Scientist Consultant,"Irving, TX",DataRobot,
+132500.0,Customer Facing Data Scientist,"Dallas, TX",DataRobot,
+140000.0,MTC Technical Architect-Data & AI,"Chicago, IL",Microsoft,87.0
+64650.0,Management Operations Analyst II,"Cook County, IL",State of Illinois,73.0
+121000.0,Data Scientist,"Chicago, IL",Relativity,65.0
+57141.0,Research Analyst - Oakton Community College,"Des Plaines, IL ",Oakton Community College,89.0
+53000.0,Data Science Educator,"Boulder, CO ",Battelle,73.0
+63161.0,"Computer Scientist, ZP-1550-II (GS-7/10 equivalent) TERM","Boulder, CO  ",US Department of Commerce,87.0
+133500.0,Data Scientist - Bioinformatics,"Denver, CO ",Transamerica,71.0
+108500.0,Data Assimilation Scientist,"Louisville, CO ",Astra LLC,
+129500.0,Data Scientist,"Denver, CO",ICR,73.0
+123774.0,Chemistry Program Manager - 2040,"Denver, CO",State of Colorado Job Opportunities,70.0
+5000.0,UX Copywriter / Content Strategist,"Denver, CO  ",AETNA,72.0
+34000.0,Imagery Science Services-Journeyman-TS/SCI with Poly Level C...,"Denver, CO",Leidos,72.0
+70000.0,Data Analytics Specialist,"Manhattan, NY",New York City DEPT OF PARKS & RECREATION,87.0
+89349.0,"Data Analyst, PNA","Manhattan, NY",New York City NYC HOUSING AUTHORITY,73.0
+43552.0,"Burial Desk Clerk, Bureau of Vital Statistics","Manhattan, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+63500.0,"Associate Underwriter, Data Analysis Rating Team, IronPro","New York, NY  ",Liberty Mutual Insurance,71.0
+60000.0,Policy and Data Research Analyst,"New York, NY  ",The New York City Campaign Finance Board (CFB),
+65385.5,"City Research Scientist, Bluebelt Planning","New York, NY",New York City DEPT OF ENVIRONMENT PROTECTION,73.0
+140000.0,Sr. Data Scientist,"New York, NY  ",MetroPlus Health Plan,66.0
+64292.0,Research Scientist 1 (Epidemiology) – 08740 & 15011 (two pos...,"Albany, NY ","Health, Department of",
+67085.5,GENERAL PHYSICAL SCIENTIST,"Phoenix, AZ  ",US Department of the Navy,88.0
+99514.0,MATHEMATICIAN,"Phoenix, AZ",US Department of the Air Force,88.0
+51238.0,RESEARCH AND STATISTICAL ANALYST,"Phoenix, AZ  ",Arizona Health Care Cost Containment System,85.0
+57250.0,Law Research Fellow in Artificial Intelligence Governance,"Phoenix, AZ  ",Arizona State University,88.0
+98797.0,OPERATIONS RESEARCH,"Phoenix, AZ  ",US Department of the Navy,88.0
+68648.5,Planning Research Analyst Sr,"Maricopa County, AZ",Maricopa Community Colleges,74.0
+98797.0,Physicist,"Phoenix, AZ  ",US Department of the Navy,88.0
+83000.0,Process Development Engineer,"Scottsdale, AZ  ","NantEnergy, Inc.",
+92500.0,Computational Mechanics Software Engineer,"Scottsdale, AZ",EndoVantage,88.0
+131000.0,Engineering Data Scientist,"Philadelphia, PA  ",Delphinus Engineering,70.0
+60000.0,Business Development Specialist (Market Research Analyst),"Voorhees, NJ ",Sricom,70.0
+150000.0,Senior Data Scientist,"Philadelphia, PA",Progressive Staffing,
+90000.0,Assessment Design Specialist - Statistics / Data Analytics /...,"Philadelphia, PA",Tuva,
+93000.0,Sr. Research Scientist,"Miami, FL",Florida International University,88.0
+121000.0,"Senior Embedded Software Engineer, Controller","Fort Lauderdale, FL","Magic Leap, Inc.",69.0
+112500.0,Program Manager - Data Science and Design,"Seattle, WA",Convoy,88.0
+169700.0,Big Data Architect,"Seattle, WA  ",Liberty Mutual Insurance,71.0
+116500.0,Data Scientist,"Bellevue, WA",eBay Inc.,74.0
+115942.0,"Interdisciplinary, GS-1313/1550-13 (DEU-YJ)","Pasadena, CA",US Department of the Interior,87.0
+52000.0,Postdoctoral Research Scientist,"Los Angeles, CA",Los Angeles County Museum Of natural History Found...,
+92100.0,Senior Research & Planning Analyst,"Anaheim, CA",North Orange County Community College District (NO...,88.0
+113000.0,Data Scientist - HCI,"Long Beach, CA",SCAN Group,50.0
+63035.0,REALTY SPECIALIST,"Los Angeles, CA",US Department of the Army,89.0
+92100.0,"Senior Research & Planning Analyst, FCC581, FC","Anaheim, CA",North Orange County Community College District (NO...,88.0
+89637.5,"CHIEF RESEARCH ANALYST, BEHAVIORAL SCIENCES","Los Angeles, CA",Los Angeles County Department of Human Resources,87.0
+110438.0,Research Programmer II,"Los Angeles, CA",USC,87.0
+62500.0,Assistant Director-Programs,"Columbus, OH",The Ohio State University,87.0
+78600.0,Data Analytics Consultant,"Columbus, OH  ",Ohio State University Medical Center,86.0
+65000.0,Research Statistician,,OSU Wexner Medical Center,86.0
+67500.0,Program Director,"Columbus, OH",The Ohio State University,87.0
+48750.0,Stage Manager,"Columbus, OH",The Ohio State University,87.0
+50000.0,Program Coordinator,"Columbus, OH",The Ohio State University,87.0
+62154.0,Post Doctoral Researcher,"Columbus, OH",The Ohio State University,87.0
+130000.0,Senior Research Scientist,"Columbus, OH  ",Ohio State University Medical Center,86.0
+86500.0,Front End Developer,"Columbus, OH",ICF,70.0
+95500.0,Software Engineer,"Columbus, OH  ",Battelle,73.0
+109000.0,Senior Software Engineer - M&S,"Columbus, OH",DCS Corp,90.0
+103500.0,"UI/UX Engineer, Explainable AI","Columbus, OH",DataRobot,100.0
+275000.0,Data Scientist - Insurance,"San Francisco, CA",Blue Owl,
+120500.0,Data Scientist,"San Francisco, CA  ",Brightidea,90.0
+112500.0,Data Scientist,"San Francisco, CA",Aurora Tech,
+130000.0,Data Scientist,"San Francisco, CA",BICP,
+131500.0,"Data Scientist, Payments","San Francisco, CA  ",Square,74.0
+114000.0,Data Scientist,"San Francisco, CA",Rev.com,53.0
+132000.0,Data Scientist - Forecasting,"San Francisco, CA",Capital One,85.0
+146000.0,Data Scientist,"San Francisco, CA",Scaleapi,
+125000.0,Data Scientist - Machine Learning Specialist,"San Carlos, CA",Upstart,72.0
+125000.0,Research Scientist,"Austin, TX",University of Texas at Austin,88.0
+40019.0,Crime Analyst / Administrative Research Analyst (Police),"Pflugerville, TX",City of Pflugerville,72.0
+1800.0,Software Engineer - Data Team,"Austin, TX",The Zebra,85.0
+56000.0,Data Systems Engineer,"Austin, TX",University of Texas at Austin,88.0
+52068.0,DPS - LES - Forensic Scientist I-III Digital Multimedia Evid...,"Austin, TX ",TEXAS DEPARTMENT OF PUBLIC SAFETY,73.0
+288000.0,Research Engineering/ Scientist Assistant,"Austin, TX",University of Texas at Austin,88.0
+140000.0,Senior Research Scientist,"Austin, TX",University of Texas at Austin,88.0
+34008.0,Research Engineer Scientist Associate I,"Austin, TX",University of Texas at Austin,88.0
+100000.0,Computational Neuroscientist,"Austin, TX",University of Texas at Austin,88.0
+75000.0,Global Principal for Artificial Intelligence and Machine Lea...,,Cambridge Innovation Consulting (CamIn),
+117500.0,Data Science Engineer,"Austin, TX ",Opcity,67.0
+75000.0,Research Associate - Quantitative Analyst Modeler,"Austin, TX",University of Texas at Austin,88.0
+122411.5,General Engineer (Senior Technical Architecture Analyst),"Austin, TX",US Department of the Army,89.0
+128000.0,Solutions Architect - Big Data,"Austin, TX",Onica,
+1579.0,CPA - Tax Research Analyst - Austin (Part-Time) AMENDED,"Austin, TX",COMPTROLLER OF PUBLIC ACCOUNTS,52.0
+48000.0,Senior Research Program Coordinator,"Austin, TX",University of Texas at Austin,88.0
+122411.5,General Engineer (Senior Systems Integration),"Austin, TX",US Department of the Army,89.0
+108587.5,Supervisory Civil Engineer (Hydraulics),"Portland, OR",US Department of the Army,89.0
+62500.0,Research Scientist,"Vancouver, WA  ",Molecular Testing Labs,71.0
+119000.0,Data Scientist,"Lake Oswego, OR ",Vesta Corporation,66.0
+47500.0,Research Analyst,"Portland, OR","Arnerich Massena, Inc.",
+132500.0,Senior Research Analyst - Alternatives,"Portland, OR","Arnerich Massena, Inc.",
+101500.0,"Product Manager - Data Science - Portland, OR","Portland, OR",Vacasa,54.0
+112500.0,"Senior Product Manager - Data Science - Portland, OR","Portland, OR",Vacasa,54.0
+88500.0,Software Engineer,"Pittsburgh, PA  ",Immunetrics,
+52068.0,DPS - LES - Forensic Scientist I-III DNA,"Jersey Village, TX ",TEXAS DEPARTMENT OF PUBLIC SAFETY,73.0
+70854.0,Senior Research Analyst,"Houston, TX",University of Houston,88.0
+67000.0,"Medical Lab Scientist, Lab Services - Clear Lake Campus (nig...","Webster, TX ",UTMB,85.0
+112500.0,Quality Engineer IV- Data Scientist,"Houston, TX",Hewlett Packard Enterprise,72.0
+60000.0,Research Associate,"Houston, TX",Baylor College of Medicine,74.0
+46980.0,"Research Compliance Analyst (IRB), RIO","Houston, TX",University of Houston,88.0
+85000.0,Lead Bioinformatics Programmer,"Houston, TX",Baylor College of Medicine,74.0
+114000.0,Software Engineer,"Houston, TX","Two Sigma Investments, LLC.",71.0
+148081.0,Computer Scientist (Informatics),"Atlanta, GA ",Centers for Disease Control and Prevention,87.0
+148081.0,Health Scientist (Informatics),"Atlanta, GA ",Centers for Disease Control and Prevention,87.0
+103151.0,Statistician (Health) (Direct Hire),"Atlanta, GA  ",Centers for Disease Control and Prevention,87.0
+103151.0,Statistician (Health),"Atlanta, GA  ",Centers for Disease Control and Prevention,87.0
+126767.5,Biologist (Direct Hire),"Atlanta, GA ",Centers for Disease Control and Prevention,87.0
+116198.0,Health Scientist,"Atlanta, GA  ",Centers for Disease Control and Prevention,87.0
+124000.0,Data Scientist Consultant,"Alpharetta, GA",DataRobot,100.0
+139000.0,"Senior Manager, Data Science","Atlanta, GA ",Cardlytics,85.0
+135500.0,DevOps Engineer (Center for Machine Learning),"Plano, TX ",Capital One,85.0
+128500.0,Data Scientist / Quantitative Researcher – High Frequency Fu...,"Chicago, IL  ",Wolverine Trading,86.0
+104000.0,Data Scientist,"Glenview, IL ",Anixter,71.0
+173279.5,QUANTITATIVE RESEARCH ANALYST (FINANCIAL ENGINEER),"Chicago, IL",U.S. Federal Government,88.0
+90000.0,Assessment Design Specialist - Statistics / Data Analytics /...,"Chicago, IL",Tuva,
+150000.0,022: Data Science Lead - Dynamic Pricing,"Chicago, IL",Dataspace,
+65000.0,Senior Data Analyst,,Empire Today LLC,54.0
+157500.0,Data Science - Associate,"Chicago, IL",Credit Ninja,
+111500.0,Machine Learning / NLP Data Scientist,"Chicago, IL",Attadale Partners,
+106500.0,Data Scientist,"Chicago, IL  ",Illinois Policy Institute,85.0
+125000.0,PORTFOLIO RESEARCH ANALYST,"Chicago, IL",The HOUSEpital,
+95000.0,Statistical Process Engineer,"Chicago, IL","FPC of Greensboro, NC",100.0
+50000.0,Postdoctoral Research Fellow,"Chicago, IL  ",Rush University Medical Center,85.0
+128500.0,Data Scientist,"Chicago, IL",Credit Ninja,
+124000.0,Senior Software Engineer,"Chicago, IL",Civis Analytics,53.0
+114500.0,Senior Software Engineer (New York),"Chicago, IL",Tempus,72.0
+119000.0,Senior Devops Engineer (Redwood City),"Chicago, IL",Tempus,72.0
+129000.0,Senior Software Engineer - Platform Team,"Chicago, IL  ",Fooda,70.0
+124000.0,Senior Software Engineer,"Chicago, IL  ",Strike Social,72.0
+5000.0,Lead Data Scientist – Digital Engagement,"Denver, CO  ",AETNA,72.0
+81028.5,"Physical Scientist, GS-1301-09/11/12 (PERM-DEU-JJ)","Lakewood, CO",US Department of the Interior,87.0
+131624.0,"Supervisory Geographer/Physical Scientist, GS-0150/1301-14 (...","Lakewood, CO",US Department of the Interior,87.0
+86923.0,"Physical Scientist, GS-1301-11/12 (Direct Hire)","Boulder, CO  ",US Department of Commerce,87.0
+114000.0,Natural Language Processing Engineer,"Denver, CO  ",Pinnacol Assurance,86.0
+110500.0,"UI/UX Engineer, Explainable AI","Denver, CO",DataRobot,100.0
+142000.0,"Director, Data Scientist, Natural Language Processing","Denver, CO  ",KPMG,85.0
+100500.0,Part-time Data Science Instructor,"Denver, CO",General Assembly,88.0
+89500.0,Data Science Manager,"Denver, CO  ",TGS Management Corporation,
+119500.0,DEVOPS SOFTWARE ENGINEER LEADER-RS 5,"Denver, CO",ULA,73.0
+89500.0,Data Scientist,"Denver, CO ",Brandfolder,
+85000.0,Production Chemist(s) - Hemp CBD Processing Lab,"Denver, CO",King Pharma,
+120000.0,Senior Go - Developer,"Denver, CO",Dark Cubed,
+119000.0,"Senior Front End Engineer, UI/UX team","Denver, CO",DataRobot,100.0
+85000.5,City Reseearch Scientist,"New York, NY",New York City NYC HOUSING AUTHORITY,73.0
+115500.0,"Data Scientist, Product Analytics","New York, NY  ",BuzzFeed,85.0
+76125.0,Life Scientist/Environmental Engineer/Physical Scientist,"New York, NY",U.S. Federal Government,88.0
+135000.0,Data Scientist - Investment Research,"New York, NY","Two Sigma Investments, LLC.",71.0
+149500.0,Security Data Scientist,"New York, NY",Rockstar New York,
+110966.0,Director of Data Analytics,"Queens, NY",New York City DEPT OF DESIGN & CONSTRUCTION,74.0
+838.0,Technician B - Preventive Medicine,"New York, NY",Columbia University,86.0
+60000.0,Policy and Data Research Analyst,"New York, NY  ",NYC Campaign Finance,
+94889.0,"Health Data Scientist, Bureau of School Health","Queens, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+72500.0,Senior Data Analyst,"Manhattan, NY  ",New York City MAYORS OFFICE OF CONTRACT SVCS,
+91931.0,"City Research Scientist, Bureau of Sexually Transmitted Infe...","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+136000.0,Data Scientist Artificlal Intelligence Senior Consultant - N...,"New York, NY  ",Capgemini,73.0
+62693.0,GIS Analyst,"Queens, NY",New York City DEPT OF ENVIRONMENT PROTECTION,73.0
+68047.0,Research Analyst,"West Point, NY",US Department of the Army,89.0
+129000.0,"Data Science Online Project Instructor (Part-Time, Contract)","New York, NY",DataCamp,
+838.0,Technician B - Cardiology,"New York, NY",Columbia University,86.0
+57818.0,Youth Justice Research Analyst,"Manhattan, NY",New York City ADMIN FOR CHILDREN'S SVCS,70.0
+82653.0,CITY RESEARCH SCIENTIST II,"New York, NY",New York City DEPT OF ENVIRONMENT PROTECTION,73.0
+5000.0,Lead Big Data Engineer ~61581BR,"New York, NY  ",AETNA,72.0
+76500.0,Full Stack Developer with a specialty in Blockchain - Summer...,"New York, NY",The New School,74.0
+133500.0,Artificial Intelligence Solution Architect,"New York, NY  ",Accenture,85.0
+98402.5,DIRECTOR OF DATA ANALYTICS AND RESEARCH,"Queens, NY ",New York City DEPARTMENT OF CORRECTION,70.0
+94889.0,CITY RESEARCH SCIENTIST III,"New York, NY",New York City DEPARTMENT OF SANITATION,86.0
+65385.5,"Data Research Analyst, Bronx Neighborhood Health Action Cent...","Bronx, NY  ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+82175.0,"T-TAP Trainer, Bureau of HIV/AIDS Prevention and Control","New York, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+77035.0,Child Welfare Analyst,"Manhattan, NY",New York City ADMIN FOR CHILDREN'S SVCS,70.0
+85000.0,Data Science/Machine learning engineer at an EdTech startup,"New York, NY  ",Transport Learning,
+132500.0,"Product Manager, Data Science","New York, NY",Techcareers.io,
+140000.0,Senior Data Scientist,"New York, NY",FINDYR,100.0
+68810.5,Researcher,"Manhattan, NY  ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+78803.0,"Syndromic Surveillance Analyst, Bureau of Communicable Disea...","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+86398.5,"Director of Data, Research and Evaluation","New York, NY  ",New York City ADMIN FOR CHILDREN'S SVCS,70.0
+91931.0,"Data Analyst, Bureau of HIV/AIDS Prevention and Control","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+90685.5,Research Scientist 3 – (Clinical Genetics) 12342,"Albany, NY  ","Health, Department of",
+82653.0,Bureau Energy Manager,"Queens, NY",New York City DEPT OF ENVIRONMENT PROTECTION,73.0
+86398.5,"Director of Data, Research and Evaluation","New York, NY  ",NYC Administration for Children's Services,70.0
+90000.0,Assessment Design Specialist - Statistics / Data Analytics /...,"New York, NY",Tuva,
+135500.0,"Software Engineer, Data","New York, NY  ",Fundera,
+55435.0,Permit Manager,"Queens, NY",New York City DEPT OF ENVIRONMENT PROTECTION,73.0
+59889.0,"Program Analyst, Program Analysis Unit/Office of Policy, Pla...","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+163500.0,Data Scientist - Machine Learning Fraud Analytics - Manager,"New York, NY  ",PwC,85.0
+91931.0,"Director of EI Informatics, Bureau of Early Intervention","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+103677.0,"Data Unit Director, Division Mgt & Systems Coordination","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+74406.5,"Deputy Chief, Shoreline Survey Unit","Manhattan, NY",New York City DEPT OF ENVIRONMENT PROTECTION,73.0
+500000.0,Financial Specialist,"New York, NY",Weill Cornell Medicine,86.0
+137000.0,Data Scientist (Consumer Credit Risk),"New York, NY",QuadPay,
+135000.0,NLP/ML Software Engineer,"New York, NY",eBrevia,
+98797.0,COMPUTER SCIENTIST,"Phoenix, AZ  ",US Department of the Navy,88.0
+59832.5,Data Quality Statistical Analyst,"Phoenix, AZ",U.S. District Court - District of Arizona,88.0
+98797.0,MATHEMATICIAN,"Phoenix, AZ  ",US Department of the Navy,88.0
+61696.0,Management Research Analyst Senior,"Tempe, AZ",Arizona State University,88.0
+125000.0,Senior Data Science Engineer,"Tempe, AZ",Carvana,52.0
+108500.0,Azure Cloud Engineer,"Phoenix, AZ  ",Solera Health,68.0
+106500.0,Data Science Engineer,"Tempe, AZ",Carvana,52.0
+126500.0,Data Scientist - Fraud,"King of Prussia, PA ","Radial, Inc.",67.0
+79000.0,Data Science Liaison,"Willow Grove, PA",NMS Labs,71.0
+95000.0,Software Engineer (Imaging),"Philadelphia, PA",Oncora Medical,
+108000.0,"Product Owner, Digital Product Managemet","Wilmington, DE ",Capital One,85.0
+95000.0,Software Engineer (Infrastructure),"Philadelphia, PA",Oncora Medical,
+150000.0,Staff Software Engineer (Platform),"Philadelphia, PA",Oncora Medical,
+57500.0,Data Analyst (One Year Grant Funded - Maybe extended up to f...,,"PMHCC, Inc.",71.0
+37500.0,DATA ANALYSIS AND GRANTS MANAGER,,Boys & Girls Clubs of Philadelphia,
+40000.0,Environmental Scientist,,TAG Consulting,
+40000.0,Environmental Scientist,"Marlton, NJ",TAG Consulting,
+37500.0,DATA ANALYSIS AND GRANTS MANAGER,"Philadelphia, PA  ",Boys & Girls Clubs of Philadelphia,
+75000.0,Medical Writer,"Newtown, PA ",ONCONOVA THERAPEUTICS INC,87.0
+115000.0,Software Engineering Manager,"Philadelphia, PA  ",Sidecar,
+126000.0,Senior Go Engineer,"Philadelphia, PA  ",Sidecar,
+47500.0,Lab-Sarma - Post-Doctoral Fellow,"Philadelphia, PA  ",Wistar,85.0
+106500.0,DevOps Engineer,"Philadelphia, PA  ",Childhood Cancer Data Lab,
+131500.0,"Data Scientist, Behavioral Science","Fort Lauderdale, FL","Magic Leap, Inc.",69.0
+126500.0,"Data Scientist, Optimization","Fort Lauderdale, FL","Magic Leap, Inc.",69.0
+46698.0,UW MEDICINE CALL CENTER REPRESENTATIVE,"Seattle, WA",University of Washington,86.0
+93600.0,Workforce Research & Data Analyst,"Tacoma, WA  ",City of Tacoma,73.0
+40422.0,PATIENT ACCOUNT REP 1,"Seattle, WA",University of Washington,86.0
+128500.0,Data Scientist / Data Engineer,"Bellevue, WA",Thunder,89.0
+115000.0,Program Manager/ Data Scientist,"Redmond, WA ",Inabia Solutions and Consulting,
+117500.0,Data Scientist Technical Lead,"Seattle, WA",Google,88.0
+125000.0,Software Engineer,"Seattle, WA",Palantir Technologies,86.0
+154000.0,Senior Technology Product Manager,"Seattle, WA  ",Zulily,67.0
+129000.0,"Senior Software Engineer, Machine Learning","Bellevue, WA",Unity Technologies,74.0
+108000.0,Senior AI Engineer,"Tacoma, WA  ",IllFonic,90.0
+153500.0,Senior ML Engineer,"Bellevue, WA",AnswerIQ,
+103548.0,Environmental Supervisor,"Kent, WA ","City of Kent, WA",90.0
+124097.0,"Assistant Division Director - Community Toxics, Science, and...","Seattle, WA ",King County,87.0
+131000.0,"Manager, Strategic Planning and Analytics","Redmond, WA ",Nintendo of America Inc.,85.0
+130000.0,Senior Data Science Engineer,"Redmond, WA",Microsoft,87.0
+122500.0,Software Engineer - Growth,"Seattle, WA",Rover,88.0
+143000.0,Senior Software Engineer- Machine Learning,"Seattle, WA  ",Zulily,67.0
+60500.0,"Post-Doctoral Research Fellow, Data Science","Seattle, WA  ",Fred Hutchinson Cancer Research Center,87.0
+84618.0,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES","Los Angeles, CA",Los Angeles County Department of Human Resources,87.0
+141906.5,Semantic Engineer (Sr),"Los Angeles, CA ",The J. Paul Getty Trust,87.0
+80544.0,Assistant Air Quality Specialist/Air Quality Specialist (Adv...,"Diamond Bar, CA ",South Coast Air Quality Management District,90.0
+51500.0,Associate Technical Sales Representative - Western,"Torrance, CA",Anton Paar,67.0
+155500.0,Full-Stack Software Engineer,"Culver City, CA",Ritual,100.0
+52000.0,Postdoctoral Research Fellow - Bhowmick Lab - Cancer Institu...,"Los Angeles, CA",Cedars-Sinai,87.0
+66786.0,Market Strategy and Research Analyst,"Northridge, CA",California State University,89.0
+140000.0,Software Engineer and Data Scientist,,"Avicena, LLC",
+62500.0,Analytical Chemist (ICP-MS),,Cannabis Testing Lab,
+128500.0,Data Scientist,"Los Angeles, CA ",Rubicon Project,71.0
+62500.0,Marketing Research Analyst,"Los Angeles, CA",CJ America,86.0
+83500.0,Trade Marketing Manager/Essentials-Cannabis Industry!,"Pasadena, CA",Papa & Barkley,
+162500.0,Data Scientist,"Los Angeles, CA",Survios,73.0
+134500.0,Data Scientist (Sales Engineering),"Los Angeles, CA ",Factual,
+55000.0,Microbiologist,,Cannabis Testing Lab,
+75000.0,VP of Finance,"Los Angeles, CA",TrueData,
+140000.0,Solutions Architect,"Los Angeles, CA",STRIVR,
+147000.0,Senior Full-Stack Engineer,"Los Angeles, CA",VideoAmp,88.0
+125500.0,Sr. FullStack Engineer,,Ocean Freight Exchange,
+111000.0,Senior Product Manager,"Los Angeles, CA",NEXT Trucking,32.0
+125500.0,Sr. FullStack Engineer,"Los Angeles, CA",Ocean Freight Exchange,
+65000.0,Research Statistician,"Columbus, OH",OSU Wexner Medical Center,86.0
+112500.0,"Senior Front End Engineer, UI/UX team","Columbus, OH",DataRobot,100.0
+50142.0,Human Resources Assistant,"Albany, CA",US Department of Agriculture,86.0
+93300.0,Research Analyst 5,"Berkeley, CA",University of California Berkeley,87.0
+146000.0,Data Science Instructor,"San Francisco, CA",Pathrise,
+51200.0,Postdoctoral Scholar,"Berkeley, CA",University of California Berkeley,87.0
+162500.0,Data Scientist (Anti-Fraud Team),"San Francisco Bay Area, CA",Walmart eCommerce,71.0
+130000.0,"Senior Product Manager, Enterprise Applications","San Mateo, CA  ",Lumity Inc,
+141000.0,"Software Engineer, Data","San Francisco, CA  ",Airbnb,86.0
+135000.0,Software Engineer (Automation & Robotics),"South San Francisco, CA",Myriad Genetics,69.0
+1200.0,Senior Financial Analyst,"San Francisco, CA  ",Benchling,
+62550.0,Student Services Advisor 4 -,"Berkeley, CA",University of California Berkeley,87.0
+52550.0,Network and Program Coordinator Job - BLUM,"Berkeley, CA",University of California Berkeley,87.0
+126500.0,Senior Software Engineer - Applied Computer Vision,"San Francisco, CA",Samsara,
+171000.0,"Senior Software Engineer - Tools, Machine Learning","Redwood City, CA",Course Hero,87.0
+55380.0,Senior Data Research Analyst,"Austin, TX  ",Health & Human Services Comm,69.0
+60000.0,Senior Course Coordinator - Statistics,"Austin, TX",University of Texas at Austin,88.0
+50400.0,CPA - Research Analyst,"Austin, TX  ",COMPTROLLER OF PUBLIC ACCOUNTS,52.0
+69996.0,Geomechanical Engineer,"Austin, TX",University of Texas at Austin,88.0
+103587.0,General Engineer (Technical Architecture Analyst),"Austin, TX",US Department of the Army,89.0
+45000.0,"Research Engineering Scientist Associate III, Neurosurgery,...","Austin, TX",University of Texas at Austin,88.0
+129000.0,Senior Software Engineer - Core Platform,"Austin, TX",Babylon Health,65.0
+149500.0,Data Scientist and/or Software Engineer,"Austin, TX",RightPlace Consulting,
+87500.0,Research Scientist,"Austin, TX  ",Omega Optics,
+55200.0,Research Analyst,"Austin, TX  ",Texas Comptroller of Public Accounts,91.0
+138000.0,"Senior Product Marketing Manager, Enterprise Products","Austin, TX ",Indeed,89.0
+125000.0,Principal UI Engineer,"Austin, TX",ForgeRock,
+104000.0,Sr. Software Developer,"Austin, TX",RightPlace Consulting,
+59350.0,Research Associate (Research Statistician),"Portland, OR",Oregon Health & Science University,85.0
+91319.5,Appraiser,"Portland, OR",US Department of the Army,89.0
+50800.0,Clinical Research Coordinator,"Portland, OR",Oregon Health & Science University,85.0
+42096.0,SECRETARY SUPERVISOR - Washington State Patrol (Vancouver HQ...,"Vancouver, WA",Washington State Patrol,73.0
+65073.0,Research Associate (Lab Manager),"Portland, OR",Oregon Health & Science University,85.0
+96000.0,Senior Engineer,"Portland, OR  ",Biohabitats,100.0
+57500.0,Email Marketing Copywriter,"Portland, OR",Instant Email Copy,
+123870.5,Research General Engineer/Research Physical Scientist (Leade...,"Bruceton, PA",Centers for Disease Control and Prevention,87.0
+30810.0,Laboratory Research Specialist,"Pittsburgh, PA",The University of Pittsburgh,87.0
+95000.0,Data Scientist,"League City, TX ",American National Insurance Company,71.0
+167000.0,Data Scientist- Digital Media,"Houston, TX",David Weekley Homes,72.0
+74000.0,"Senior Medical Lab Scientist, Lab Services - Victory Lakes P...","League City, TX ",UTMB,85.0
+50000.0,Research Assistant II,"Houston, TX",Baylor College of Medicine,74.0
+48342.0,Post Doctoral Fellow,"Houston, TX",University of Houston,88.0
+92000.0,Flow Cytometry Specialist II,"Houston, TX",Baylor College of Medicine,74.0
+120000.0,Data Engineer . Principle Software Engineer. Houston TX,,GEP,
+45000.0,Research & Development Chemist,"Houston, TX","Woodfield Pharmaceutical, LLC - WDPrx",
+113500.0,Front-End Developer (React),"Houston, TX",Expero,
+104000.0,Data Scientist,"Houston, TX",cPanel,88.0
+54500.0,"Post-Doctoral Fellow- Medical Imaging, Machine Learning and...","Atlanta, GA",Emory University,86.0
+137000.0,Customer Facing Data Scientist,"Atlanta, GA",DataRobot,100.0
+44500.0,Post Doctoral Fellow Biochemistry,"Atlanta, GA",Emory University,86.0
+132500.0,"Product Owner, Data Science","Atlanta, GA",eVestment,88.0
+134000.0,Data Operations Engineer (Dev Ops / SRE),"Atlanta, GA",UserTesting,86.0
+126000.0,Senior Underwater Acoustics Engineer - SEAL,"Smyrna, GA",Georgia Tech Research Institute,87.0
+107000.0,Systems Engineer / Model Based Systems Engineer (Advanced De...,"Smyrna, GA",Georgia Tech Research Institute,87.0
+75000.0,Machine Learning Engineer,"Atlanta, GA  ","AIMLEX, LLC",
+80000.0,Senior Data Analyst / Data Scientist / Tableau Developer,"Garland, TX  ",1000bulbs.com,
+128500.0,Data Science Consultant,"Richardson, TX",Artis Consulting,
+115000.0,Data Scientist / Validation Analyst # 743265,"Plano, TX",Systemart LLC,86.0
+135000.0,Big Data Solution Architect,"Dallas, TX  ",Sense Corp,72.0
+115000.0,Product Data Scientist,"Dallas, TX",Invitae,72.0
+80000.0,Senior Data Analyst / Data Scientist / Tableau Developer,,1000bulbs.com,
+122500.0,Data Scientist,"Irving, TX ",Simarn Solutions,48.0
+132500.0,Customer Facing Data Scientist,"Dallas, TX",DataRobot,100.0
+129000.0,Data Scientist Consultant,"Irving, TX",DataRobot,100.0
+65000.0,Senior Data Analyst,"Northlake, IL",Empire Today LLC,54.0
+73500.0,"Microbiology Supervisor, 2nd Shift","Melrose Park, IL","Pinpoint Pharma, LLC",45.0
+134500.0,SOLUTION ARCHITECT/SALES ENGINEER,"Chicago, IL",Decision Engines,
+114000.0,Data Scientist,"Golden, CO",ICF,70.0
+122500.0,Data Scientist,"Denver, CO ",Transamerica,71.0
+131000.0,Data Science Lead,"Englewood, CO ",DISH Network,68.0
+111500.0,Cloud Data Scientist,"Boulder, CO",Delve,100.0
+62500.0,Real Estate Research Analyst,"Englewood, CO ",Stevens and Associates/ Inc,
+80000.0,Junior Software Engineer,"Boulder, CO",SciTec,
+102500.0,Senior Business Data Analyst (MOO),"Brooklyn, NY",New York City MAYORS OFFICE OF CONTRACT SVCS,
+119000.0,Data Scientist Senior,"Canastota, NY",Northeast Information Discovery,
+88000.5,DCAS Safety and Health Officer,"New York, NY",New York City DEPT OF CITYWIDE ADMIN SVCS,
+101515.5,Director of Operations,"Brooklyn, NY",New York City FIRE DEPARTMENT,86.0
+57500.0,Strategic Research Analyst,"New York, NY ",Service Employees International Union,72.0
+68810.5,"Water System Analyst, Bureau of Environmental Sciences and E...","Queens, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+65385.5,"Data and Technology Analyst, Bureau of Emergency Field Opera...","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+300000.0,Senior Data Scientist-Credit Technology,"New York, NY  ",Primary Search Management,
+137500.0,Senior Data Scientist,"New York, NY  ",Amplicare,
+79796.5,Program Officer,"Manhattan, NY",NYC Administration for Children's Services,70.0
+159000.0,Customer Facing Data Scientist - Partner,"New York, NY",DataRobot,100.0
+78438.5,Mental Health Senior Data Analyst,"Long Island City, NY ","Research Foundation for Mental Hygiene, Inc.",
+89495.0,Director of Predictive Analytics,"Manhattan, NY",NYC Administration for Children's Services,70.0
+82175.0,Strengthening U.S. Response to Resistant Gonorrhea (SURRG) L...,"Manhattan, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+78803.0,"Qualitative Research Associate, Bureau of Alcohol and Drug U...","Queens, NY ",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+82175.0,"Environmental Scientist, Bureau of Environmental Disease and...","Manhattan, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,85.0
+91500.0,Data Scientist - Operations Research,"Tempe, AZ",Carvana,52.0
+109000.0,Data Scientist - Predictive Modeling,"Tempe, AZ",Carvana,52.0
+93154.0,Civil Engineer (Structural),"Philadelphia, PA",US Department of the Army,89.0
+115000.0,Senior Software Engineer (Platform),"Philadelphia, PA",Oncora Medical,
+57500.0,Data Analyst (One Year Grant Funded - Maybe extended up to f...,"Philadelphia, PA  ","PMHCC, Inc.",71.0
+70000.0,Postdoctoral Researcher,"Philadelphia, PA",Greene Lab,
+129000.0,Data Scientist,"Seattle, WA",Outreach,
+115500.0,AI and Analytics Research Software Engineer,"Seattle, WA  ",Cray,88.0
+173900.0,Director of Model Development – IA Channel,"Seattle, WA  ",Liberty Mutual Insurance,71.0
+104500.0,Backend Python/Django Developer,"Seattle, WA",selfdecode.com,
+115000.0,UI/UX Developer,"Redmond, WA",BiSoft,
+65742.0,CODING SPECIALIST 3 - PATHOLOGY,"Seattle, WA",University of Washington,86.0
+107500.0,"Scientist / Engineer, Downstream Process Engineering","Bothell, WA ","Alder BioPharmaceuticals, Inc.",
+161000.0,"Manager, Software Development (Woot LLC, Seattle, WA)","Seattle, WA","Woot, Inc.",51.0
+129000.0,Data Scientist,"Los Angeles, CA",Oxford Road,73.0
+125000.0,STATISTICIAN,,National Tax Experts,65.0
+137500.0,Director of Technology - Full Stack Developer,"El Segundo, CA",3Diligent Corporation,
+164500.0,Software Engineer,"Los Angeles, CA",Smarkets,
+133500.0,"Senior Software Engineer, Performance - Contractor","Culver City, CA",Magic Leap - Multiple Locations,69.0
+111500.0,Radar Embedded Software Engineer,"Torrance, CA",Garrett Advancing Motion,
+157000.0,Sr. DevOps Engineer,"Venice, CA",System1,
+55000.0,Microbiologist,"Los Angeles, CA",Cannabis Testing Lab,
+52500.0,Senior Academic Advisor,"Columbus, OH",The Ohio State University,87.0
+94494.0,Investment Analyst-Quantitative Management,"Columbus, OH  ",Ohio Public Employees Retirement System,65.0
+128500.0,Senior AI Engineer,"Novato, CA",2K Games,72.0
+122000.0,Senior Software Engineer in Test - Machine Learning,"San Francisco, CA  ",Splunk,87.0
+136643.0,Technology Expert I-Epic Beacon/Research Business Analyst,"San Francisco, CA  ",City & County of San Francisco,86.0
+142500.0,"Senior Product Manager, Data Science","San Francisco, CA",Plethora Digital,
+57200.0,Student Services Advisor 3 Job - Fung Institute,"Berkeley, CA",University of California Berkeley,87.0
+147500.0,Senior Software Engineer - Data Platform,"San Francisco, CA",Tenfold,88.0
+147000.0,"Senior Software Engineer - Communication Safety, Machine Lea...","San Mateo, CA",Roblox,89.0
+135000.0,"Data Scientist - Principal - San Francisco, CA","San Francisco, CA",Clarity Insights,70.0
+34008.0,Research Engineering/Scientist Associate I,"Austin, TX",University of Texas at Austin,88.0
+71502.0,Health Physicist II,"Austin, TX",Dept of State Health Services,69.0
+57500.0,K12 Data Science / AI / Python Curriculum Writer,"Austin, TX",Hello World,
+143000.0,Data Science Manager (Lead),"Austin, TX ",Indeed,89.0
+75000.0,Global Principal for Artificial Intelligence and Machine Lea...,"Austin, TX",Cambridge Innovation Consulting (CamIn),
+110000.0,Software Engineer - Analytics,"Austin, TX",Zelus Analytics,
+87500.0,Backend Python/Django Developer,"Portland, OR",selfdecode.com,
+26832.0,Research Technician,"Pittsburgh, PA",The University of Pittsburgh,87.0
+45942.0,Senior Statistician,"Pittsburgh, PA",The University of Pittsburgh,87.0
+101500.0,Data Scientist,"Pittsburgh, PA",Global Data Analytics,
+103000.0,Data Scientist,"Pittsburgh, PA",International Services Management,
+112000.0,Front End Engineer,"Houston, TX","Two Sigma Investments, LLC.",71.0
+127500.0,Solutions Architect - Big Data,"Houston, TX",Onica,
+60000.0,Senior Research Subject Protection Analyst,"Houston, TX",Baylor College of Medicine,74.0
+135000.0,Sensor Research Engineer/Physicist,"Houston, TX",FlowCommand Inc,
+86491.5,Statistician (Health) (Direct Hire),"Atlanta, GA  ",Centers for Disease Control and Prevention,87.0
+72500.0,Software Engineer,"Atlanta, GA  ","AIMLEX, LLC",
+52068.0,DPS - LES - Forensic Scientist I-III DNA,"Garland, TX",TEXAS DEPARTMENT OF PUBLIC SAFETY,73.0
+119000.0,VP Data Scientist,"Coppell, TX ",Caliber Home Loans,68.0
