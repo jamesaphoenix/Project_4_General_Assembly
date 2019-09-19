@@ -14,6 +14,6 @@ During this project, I learned web scraping and utilised the [BeautifulSoup](htt
   * Evaluated the accuracy, AUC, precision and recall of the models. 
   * Plotted the ROC and precision-recall curve.
 * Discussed the differences and explained when a high-recall or a high-precision model scenario is beneficial.
-* Obtain the ROC/precision-recall curves for the different models
+* Obtained the ROC/precision-recall curves for the different models
 
 [Jupyter Notebook - Assignment 4](Project_4.ipynb)
